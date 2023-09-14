@@ -1,6 +1,5 @@
 
-<p align="center"><img src="![image](https://github.com/MuhammadSayemIjaz/MuhammadSayemIjaz/assets/75717799/0c469470-43a9-4068-9b13-3a199f0587a6)
-" width="600" height="300"  /></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif" width="600" height="300"  /></p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sayem Ijaz</h1>
 <h3 align="center">A self-taught frontend developer with a strong passion for coding.</h3>
