@@ -1,8 +1,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<p align="center"><img src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif" width="600" height="300"  /></p>
-
 <h1 align="center">Hi 👋, I'm Muhammad Sayem Ijaz</h1>
 <h3 align="center">A self-taught frontend developer with a strong passion for coding.</h3>
 
