@@ -1,7 +1,8 @@
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHI_QWL06Ae2g/profile-displaybackgroundimage-shrink_350_1400/0/1694504554432?e=1710979200&v=beta&t=_-E7ZtydcHJm6esw-3rlAf_ErkwgKv5YqsdpFiRjsK8" /> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sayem Ijaz</h1>
+<!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
 <h3 align="center">A self-taught frontend developer with a strong passion for coding.</h3>
 
 - 🌱 I’m currently learning **NEXT JS**
