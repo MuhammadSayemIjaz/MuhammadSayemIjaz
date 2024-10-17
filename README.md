@@ -1,15 +1,15 @@
 
 <p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQHI_QWL06Ae2g/profile-displaybackgroundimage-shrink_350_1400/0/1694504554432?e=1710979200&v=beta&t=_-E7ZtydcHJm6esw-3rlAf_ErkwgKv5YqsdpFiRjsK8" /> </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Sayem Ijaz</h1>
+<h1 align="center">Hi 👋, My Self Muhammad Sayem Ijaz</h1>
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
 <h3 align="center">A self-taught frontend developer with a strong passion for coding.</h3>
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently Exploring **Data Science Field**
 
 - 👨‍💻 All of my projects are available at [sayemijaz.netlify.app](sayemijaz.netlify.app)
 
-- 💬 Ask me about **React JS, Front-End Development**
+- 💬 Ask me about **React JS, Next JS, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sayem-ijaz-25a70919b**
 
